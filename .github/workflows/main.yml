@@ -1,0 +1,47 @@
+# Auto-magically animate my contribution graph as a snake!
+# By secbyteX03 - making GitHub cool, one pixel at a time.
+name: Animate GitHub Snake
+
+on:
+  schedule:
+    # Runs every 12 hours to keep the snake hungry
+    - cron: "0 */12 * * *"
+
+  # Manual trigger
+  workflow_dispatch:
+
+  # 🌀 Also update on every push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name:  Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate the snake and save it to ./snake-dist/
+        uses: Platane/snk@v3
+        id: snake-generator
+        with:
+          github_user_name: secbyteX03
+          outputs: |
+            snake-dist/contribution-snake.svg
+            snake-dist/contribution-snake-dark.svg?palette=github-dark
+            snake-dist/contribution-snake.gif?color_snake=#ff6f00&color_dots=#ffe0b2,#ffcc80,#ffb74d,#ffa726,#ff9800
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Confirm build status
+        run: git status
+
+      - name: Deploy animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: snake-dist
+          commit_message: "Update: New snake animation by secbyteX03"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
