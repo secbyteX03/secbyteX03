@@ -11,7 +11,7 @@
 😊Passionate about leveraging Cyber Risk, AI/ML, and Actuarial Data Science to build secure, low-resource technology empowering African communities through digital transformation. <br>
 💼My work includes developing biometric security systems, Kobo/QGIS tooling, and Blue Economy automation; optimizing SMEs with data-driven solutions; and leading cyber education initiatives for women & youth. <br>
 🌱Grounded in rigorous risk modeling, ethical AI, and infrastructure resilience, I'm currently leveling up my Software Engineering and AI skills @ PLP Africa <br>
- I still celebrate a first-run Python success like a World Cup victory! 🔐💡</p>
+ 🔐💡I still celebrate a first-run Python success like a World Cup victory! </p>
  <div align="center"> 
   <a href="amaizing.faith1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
