@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I’m Faith! 
 
-<!--
-**secbyteX03/secbyteX03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cyber Risk | 🤖 AI/ML | 📊 Actuarial Data Scientist  
+Passionate about building secure, low-resource tech that empowers African communities through digital transformation:  
+- Biometric security systems • Kobo/QGIS tooling • Blue Economy automation  
+- SME optimization through data-driven automation  
+- Cyber education initiatives for women & youth  
 
-Here are some ideas to get you started:
+🔐 Driven by: Risk modeling • Ethical AI • Infrastructure resilience  
+🌱 Currently: Leveling up Software Engineering + AI @ [PLP Africa](https://powerlearnproject.org/)   
+💡 Fun fact: Still celebrate first-run Python success like World Cup victory  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=secbyteX03&show_icons=true&theme=radical)
