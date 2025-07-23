@@ -3,7 +3,9 @@
 </h1>
 
 
-<h3 align="center">A passionate Cyber Risk Analyst </h3>
+<h3 align="center">Actuarial-Trained Cyber Risk Quant Analyst
+Specializing in probabilistic threat modeling & financial impact forecasting.
+ </h3>
 <image src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtrNjc2ZTBsaGw3dzY0Ymk2MmUyNzA5MHYweGJ2YjQ3NGNsZXlkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PcRCqVrIBzSMFC6QM/giphy.gif" width="400" height="300" align="right" alt="develop-secure-applicati0ons-image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secbytex03&label=Profile%20views&color=0e75b6&style=flat" alt="secbytex03" /> </p>
 
