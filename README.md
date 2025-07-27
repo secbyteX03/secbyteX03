@@ -10,8 +10,7 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secbytex03&label=Profile%20views&color=0e75b6&style=flat" alt="secbytex03" /> </p>
 
 <p align="left">  
-😊Passionate about leveraging Cyber Risk, AI/ML, and Actuarial Data Science to build secure, low-resource technology empowering African communities through digital transformation. <br>
-💼My work includes developing biometric security systems, Kobo/QGIS tooling, and Blue Economy automation; optimizing SMEs with data-driven solutions; and leading cyber education initiatives for women & youth. <br>
+😊I’m a Cybersecurity-certified developer and digital strategist with a background in Actuarial Science. Over the past 5+ years, I’ve helped startups, SMEs, and tech communities harness the power of design, data, and automation. My expertise bridges cyber risk analysis, UX/UI, branding, and secure development, delivering tech solutions that solve real-world business problems.  <br>
 🌱Grounded in rigorous risk modeling, ethical AI, and infrastructure resilience, I'm currently leveling up my Software Engineering and AI skills @ PLP Africa <br>
   
  </p>
