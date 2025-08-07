@@ -25,7 +25,7 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
   <a href="https://www.linkedin.com/in/magretfaith" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://magretfaith.netlify.app/" target="_blank">
+  <a href="https://faithmagret.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a> <br>
    🔐💡 Fun Fact: I still celebrate a first-run Python success like a World Cup victory!
