@@ -2,27 +2,37 @@
 <div align="center">
 
 ```text
-   ███████╗███████╗ ██████╗██████╗ ██╗   ██╗████████╗███████╗
-   ██╔════╝██╔════╝██╔════╝██╔══██╗██║   ██║╚══██╔══╝██╔════╝
-   ███████╗█████╗  ██║     ██████╔╝██║   ██║   ██║   █████╗  
-   ╚════██║██╔══╝  ██║     ██╔═══╝ ██║   ██║   ██║   ██╔══╝  
-   ███████║███████╗╚██████╗██║     ╚██████╔╝   ██║   ███████╗
-   ╚══════╝╚══════╝ ╚═════╝╚═╝      ╚═════╝    ╚═╝   ╚══════╝
-
-        [ ACCESS GRANTED :: secbyteX03 ]
-        --------------------------------
+███████╗███████╗ ██████╗██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ██████╗ 
+██╔════╝██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝╚══██╔══╝╚██╗██╔╝██╔═████╗╚════██╗
+███████╗█████╗  ██║     ██████╔╝ ╚████╔╝    ██║    ╚███╔╝ ██║██╔██║ █████╔╝
+╚════██║██╔══╝  ██║     ██╔══██╗  ╚██╔╝     ██║    ██╔██╗ ████╔╝██║ ╚═══██╗
+███████║███████╗╚██████╗██████╔╝   ██║      ██║   ██╔╝ ██╗╚██████╔╝██████╔╝
+╚══════╝╚══════╝ ╚═════╝╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
 ```
+![Latest CVEs](https://img.shields.io/endpoint?url=https://your-api/cves/today)
 
 ![Threat Level](https://img.shields.io/badge/Threat%20Level-CRITICAL-red?style=for-the-badge&logo=probot)
 ![Cyber Risk Index](https://img.shields.io/badge/Cyber%20Risk%20Index-72%25-yellow?style=for-the-badge&logo=shield)
-![Vulnerability Tracker](https://img.shields.io/badge/Vulnerabilities-23-critical?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Vulnerability Tracker](https://img.shields.io/badge/Vulnerabilities-23-critical?style=for-the-badge&logo=bugcrowd&logoColor=white) </br>
+![Hacker](https://img.shields.io/badge/Anon_Mode-ON-green?style=for-the-badge&logo=linux)
+![Pentester](https://img.shields.io/badge/Pentest-Ready-red?style=for-the-badge&logo=kalilinux)
+![Cyberpunk](https://img.shields.io/badge/Cyberpunk-2077-yellow?style=for-the-badge&logo=cyberpunk2077)
+
 <h3 align="center">Actuarial-Trained Cyber Risk Quant Analyst
 Specializing in probabilistic threat modeling & financial impact forecasting.
  </h3>
+ 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+stranger+👋;+I'm+Magret+Faith!;&color=FF6F61&background=00000000" />
+
+  <!-- Terminal-style intro text -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=850&height=160&lines=%3E%3E+Initializing+secure+connection...;%3E%3E+Loading+security+protocols...+██████████+100%25;%3E%3E+Authenticating+user+credentials...;%3E%3E+Access+granted.+Welcome%2C+to+my+profile;%3E%3E+secbytX03%40cyber-terminal%3A~%24;waiting...;...;...;Hi+There+stranger+👋+I'm+Magret+Faith!" />
 </h1>
+
+
+
+   
  <div align="center"> 
   <a href="amaizing.faith1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -41,12 +51,20 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
 <image src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtrNjc2ZTBsaGw3dzY0Ymk2MmUyNzA5MHYweGJ2YjQ3NGNsZXlkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PcRCqVrIBzSMFC6QM/giphy.gif" width="400" height="300" align="right" alt="develop-secure-applicati0ons-image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secbytex03&label=Profile%20views&color=0e75b6&style=flat" alt="secbytex03" /> </p>
 
-<p align="left">  
-😊I’m a cybersecurity-certified developer and aspiring Cyber Risk Analyst with a background in Actuarial Science. I specialize in combining secure-by-design web development with data-driven thinking to build resilient systems for modern businesses. With 5+ years of experience helping startups and SMEs grow safely in the digital era, I’m passionate about using automation, branding, and security to reduce risk, optimize processes, and future-proof operations.  <br>
-🌱Grounded in rigorous risk modeling, ethical AI, and infrastructure resilience, I'm currently leveling up my Software Engineering and AI skills @ PLP Africa <br>
-  
- </p>
+<!-- Cyber Risk themed bio in green -->
+<p align="left" style="color:#00FF41; font-family:'Fira Code', monospace;">
+🛡️ I’m a cybersecurity-certified developer and aspiring <b>Cyber Risk Analyst</b> with a background in Actuarial Science. I specialize in building <b>secure-by-design systems</b>, analyzing threats, and forecasting potential cyber impacts for modern businesses.<br>
+💻 Passionate about using <b>data-driven analytics, automation, and proactive security measures</b> to minimize risk and optimize operational resilience.<br>
+🌱 Currently enhancing my <b>Software Engineering, AI, and Ethical Hacking</b> skills @ PLP Africa to strengthen predictive cyber defense capabilities.
+</p>
 
+## 🎯 Mission
+```diff
++ My mission is to secure the digital world
++ empower communities through cybersecurity awareness
++ and craft creative solutions that merge technology
++ data, and human-centered design.
+```
 ---
  
 
@@ -56,10 +74,14 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
 
 
 ## **🚀 Current Projects**  
-**🔨 Building**:A solidity vulnerability scanner 
-**🌱 Learning**: Advanced Software Engineering & Cybersecurity for Risk Analysis.  
 
----
+<!-- Animated terminal prompt for current projects -->
+``` bash
+secbytX03@cyber-terminal:~$ ./current_projects.sh
+```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=00FF41&width=800&height=80&lines=%3E+Building%3A+A+solidity+vulnerability+scanner;%3E+Learning%3A+Advanced+Software+Engineering+%26+Cybersecurity;%3E+Status%3A+In+Progress...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+85%25" />
+
+
 # ⚡GitHub Stats ⚡
 
 
@@ -67,24 +89,22 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=secbyteX03&langs_count=8&theme=dark&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=secbyteX03&theme=radical&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies  
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=secbyteX03&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=secbyteX03&theme=algolia&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 
-
-    
+   
 ## 🌌 My Contribution Cosmos in Motion
 
-![snake gif](https://raw.githubusercontent.com/secbyteX03/secbyteX03/output/contribution-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Matrix Rain Animation" />
 
   <br/><br/><br/>
 </div>
 
 <hr/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Secure Communication Channels:</h3>
 <p align="left">
 <a href="https://twitter.com/magretfaith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="magretfaith" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/magretfaith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magretfaith/" height="30" width="40" /></a>
@@ -92,3 +112,9 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
 <a href="https://instagram.com/magretfaith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magretfaith" height="30" width="40" /></a>
 <a href="https://medium.com/@magretfaith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@magretfaith" height="30" width="40" /></a>
 </p>
+<!-- Final terminal prompt -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=00FF41&center=true&width=600&height=50&lines=secbytX03%40github%3A~%24+logout;Connection+to+github.com+closed.;Thanks+for+visiting+my+digital+fortress!+🔐" />
+</div>
+
+
