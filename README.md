@@ -47,10 +47,6 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
 
  <hr/>
 
-
-<image src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtrNjc2ZTBsaGw3dzY0Ymk2MmUyNzA5MHYweGJ2YjQ3NGNsZXlkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PcRCqVrIBzSMFC6QM/giphy.gif" width="400" height="300" align="right" alt="develop-secure-applicati0ons-image">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=secbytex03&label=Profile%20views&color=0e75b6&style=flat" alt="secbytex03" /> </p>
-
 <!-- Cyber Risk themed bio in green -->
 <p align="left" style="color:#00FF41; font-family:'Fira Code', monospace;">
 🛡️ I’m a cybersecurity-certified developer and aspiring <b>Cyber Risk Analyst</b> with a background in Actuarial Science. I specialize in building <b>secure-by-design systems</b>, analyzing threats, and forecasting potential cyber impacts for modern businesses.<br>
@@ -88,13 +84,6 @@ secbytX03@cyber-terminal:~$ ./current_projects.sh
 ![](https://github-readme-stats.vercel.app/api?username=secbyteX03&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=secbyteX03&langs_count=8&theme=dark&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=secbyteX03&theme=radical&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=secbyteX03&theme=algolia&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</p>
-
-
    
 ## 🌌 My Contribution Cosmos in Motion
 
