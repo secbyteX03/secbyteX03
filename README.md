@@ -9,8 +9,6 @@
 ███████║███████╗╚██████╗██████╔╝   ██║      ██║   ██╔╝ ██╗╚██████╔╝██████╔╝
 ╚══════╝╚══════╝ ╚═════╝╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
 ```
-![Latest CVEs](https://img.shields.io/endpoint?url=https://your-api/cves/today)
-
 ![Threat Level](https://img.shields.io/badge/Threat%20Level-CRITICAL-red?style=for-the-badge&logo=probot)
 ![Cyber Risk Index](https://img.shields.io/badge/Cyber%20Risk%20Index-72%25-yellow?style=for-the-badge&logo=shield)
 ![Vulnerability Tracker](https://img.shields.io/badge/Vulnerabilities-23-critical?style=for-the-badge&logo=bugcrowd&logoColor=white) </br>
