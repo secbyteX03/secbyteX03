@@ -85,8 +85,7 @@ secbytX03@cyber-terminal:~$ ./current_projects.sh
    
 ## 🌌 My Contribution Cosmos in Motion
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Matrix Rain Animation" />
-
+![snake gif](https://raw.githubusercontent.com/secbyteX03/secbyteX03/output/contribution-snake-dark.svg)
   <br/><br/><br/>
 </div>
 
