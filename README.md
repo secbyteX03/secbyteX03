@@ -21,7 +21,12 @@
 <h3 align="center">Actuarial-Trained Cyber Risk Quant Analyst
 Specializing in probabilistic threat modeling & financial impact forecasting.
  </h3>
- 
+ <!-- Cyber Risk themed bio in green -->
+<p align="left" style="color:#00FF41; font-family:'Fira Code', monospace;">
+🛡️ I’m a cybersecurity-certified developer and aspiring <b>Cyber Risk Analyst</b> with a background in Actuarial Science. I specialize in building <b>secure-by-design systems</b>, analyzing threats, and forecasting potential cyber impacts for modern businesses.<br>
+💻 Passionate about using <b>data-driven analytics, automation, and proactive security measures</b> to minimize risk and optimize operational resilience.<br>
+🌱 Currently enhancing my <b>Software Engineering, AI, and Ethical Hacking</b> skills @ PLP Africa to strengthen predictive cyber defense capabilities.
+</p>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
 
@@ -46,13 +51,6 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
 </div>
 
  <hr/>
-
-<!-- Cyber Risk themed bio in green -->
-<p align="left" style="color:#00FF41; font-family:'Fira Code', monospace;">
-🛡️ I’m a cybersecurity-certified developer and aspiring <b>Cyber Risk Analyst</b> with a background in Actuarial Science. I specialize in building <b>secure-by-design systems</b>, analyzing threats, and forecasting potential cyber impacts for modern businesses.<br>
-💻 Passionate about using <b>data-driven analytics, automation, and proactive security measures</b> to minimize risk and optimize operational resilience.<br>
-🌱 Currently enhancing my <b>Software Engineering, AI, and Ethical Hacking</b> skills @ PLP Africa to strengthen predictive cyber defense capabilities.
-</p>
 
 ## 🎯 Mission
 ```diff
