@@ -30,27 +30,45 @@ Specializing in probabilistic threat modeling & financial impact forecasting.
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
 
-  <!-- Terminal-style intro text -->
+ <!-- Terminal-style intro text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=850&height=160&lines=%3E%3E+Initializing+secure+connection...;%3E%3E+Loading+security+protocols...+██████████+100%25;%3E%3E+Authenticating+user+credentials...;%3E%3E+Access+granted.+Welcome%2C+to+my+profile;%3E%3E+secbytX03%40cyber-terminal%3A~%24;waiting...;...;...;Hi+There+stranger+👋+I'm+Magret+Faith!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=850&height=190&lines=%3E%3E+Initializing+secure+connection...;%3E%3E+Loading+security+protocols...+██████████+100%25;%3E%3E+Authenticating+user+credentials...;%3E%3E+Access+granted.+Welcome%2C+to+my+profile;%3E%3E+secbytX03%40cyber-terminal%3A~%24;waiting...;...;...;Hi+There+stranger+👋+I'm+Magret+Faith!;Here+are+my+socials+👇" />
 </h1>
 
 
 
-   
- <div align="center"> 
-  <a href="amaizing.faith1@gmail.com">
+<div align="center"> 
+  <a href="mailto:amaizing.faith1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://www.linkedin.com/in/magretfaith" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/secbyteX03" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/secbyteX03" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/secbyteX03" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
   <a href="https://faithmagret.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> 
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
 </div>
 
- <hr/>
+<hr/>
+
 
 ## 🎯 Mission
 ```diff
