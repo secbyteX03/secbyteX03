@@ -11,6 +11,8 @@
 ```
 <div align="center">
 
+
+
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge)
 ![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-Specialist-blue?style=for-the-badge)
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-Analyst-purple?style=for-the-badge)
@@ -221,7 +223,3 @@ secbyteX03@cyber-terminal:~$ ./current_projects.sh
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=00FF41&center=true&width=600&height=50&lines=secbytX03%40github%3A~%24+logout;Connection+to+github.com+closed.;Thanks+for+visiting+my+digital+fortress!+🔐" />
 </div>
 
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=00FF41&center=true&width=600&height=50&lines=secbyteX03%40github%3A~%24+logout;Connection+to+github.com+closed.;Thanks+for+visiting+my+digital+fortress!+🔐" />
-</div>
