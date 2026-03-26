@@ -18,23 +18,24 @@
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-Analyst-purple?style=for-the-badge)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Developer-orange?style=for-the-badge)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-Mastery-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-
+![Stellar](https://img.shields.io/badge/Stellar-Learning-00B4D8?style=for-the-badge&logo=stellar&logoColor=white)
 </div>
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=850&height=190&lines=%3E%3E+Initializing+secure+connection...;%3E%3E+Loading+security+protocols...+██████████+100%25;%3E%3E+Authenticating+user+credentials...;%3E%3E+Access+granted.+Welcome%2C+to+my+profile;%3E%3E+secbyteX03%40cyber-terminal%3A~%24;waiting...;...;...;Hi+There+stranger+👋+I'm+Magret+Faith!;Here+are+my+socials+👇" />
 </h1>
-<h3 align="center">Cyber Risk Analyst | Blockchain Developer<br/>
-Focused on building secure systems and risk-aware technology.</h3>
+<h3 align="center">
+Cybersecurity & Blockchain Developer | Building Secure Payment Systems<br/>
+Focused on fraud prevention, trust, and real-world financial security.
+</h3>
 
 <p align="left" style="color:#00FF41; font-family:'Fira Code', monospace;">
-🛡️ I’m a developer with a background in Actuarial Science, working at the intersection of <b>cybersecurity</b> and <b>risk analysis</b>. I focus on understanding threats and designing systems that are secure and resilient by design.<br/>
-⛓️ I’m developing my expertise in <b>blockchain</b>, including smart contracts and Bitcoin’s protocol layer, while exploring how decentralized systems can integrate with risk modeling.<br/>
-💻 I enjoy working with <b>data, automation, and security-focused solutions</b> to reduce risk and improve system reliability.<br/>
-🌱 Currently strengthening my skills in <b>Blockchain Development, AI, Ethical Hacking, and Solidity</b>.
+🛡️ I build systems with <b>security first</b>,focusing on fraud prevention, transaction safety, and trust in digital environments.<br/>
+💸 I’m especially interested in <b>secure payment systems</b> and how people and businesses can transact safely in real-world environments.<br/>
+⛓️ I’m exploring <b>blockchain (including Stellar)</b> as a way to enable fast, verifiable, and low-cost transactions.<br/>
+🧠 My background in <b>Actuarial Science</b> helps me think in terms of risk, patterns, and system vulnerabilities.<br/>
 </p>
-
 
 <div align="center"> 
   <a href="mailto:amaizing.faith1@gmail.com">
@@ -61,11 +62,10 @@ Focused on building secure systems and risk-aware technology.</h3>
 
 ## 🎯 Mission
 ```diff
-+ My mission is to secure the digital world
-+ bridge actuarial risk science with blockchain technology
-+ empower communities through cybersecurity awareness
-+ and craft creative solutions that merge decentralized systems,
-+ data, and human-centered security design.
++ Build secure and trustworthy financial systems
++ Reduce fraud in everyday digital transactions
++ Apply risk analysis to real-world technology
++ Use blockchain to improve transparency and trust
 ```
 
 ---
